@@ -12,3 +12,4 @@ git config --global user.email "fernandolara10@gmail.com"
 
 4. Es necesario especificarle a GIT la herramienta a utilizar cuando
    exista algun conflicto de union.
+   jajajaja
