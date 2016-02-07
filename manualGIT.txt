@@ -1,0 +1,14 @@
+1.
+sudo apt-get install git
+
+2. Es necesario decirle a GIT un nombre de usuario y contrasena,
+   es necesario debido a que cuando se hace un commit, se obtiene
+   y se usa esta informacion.
+git config --global user.name "Fernando Lara"
+git config --global user.email "fernandolara10@gmail.com"
+
+3. Ahora es necesario especificarle a GIT nuestro editor de texto
+   preferido, el lo usara cuando te pida ingresar algun texto.-
+
+4. Es necesario especificarle a GIT la herramienta a utilizar cuando
+   exista algun conflicto de union.
